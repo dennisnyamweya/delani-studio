@@ -1,0 +1,97 @@
+/***********************Home****************/
+.hero-txt{
+  position: absolute;
+  text-align: center;
+  top: 180px;
+  left: 370px;
+  color: white;
+}
+.hero-img{
+  background-image: url('https://i.imgur.com/ZO5IISI.jpg');
+  background-position: center;
+  height:800px;
+  background-size:cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.hero-img p{
+  font-family: 'Noto Sans HK', sans-serif;
+}
+/**********************About us**************/
+.about,.dos{
+  text-align: center;
+}
+.serv-img{
+  background-image: url('https://i.imgur.com/OQS2EfI.jpg');
+  height: 50vh;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+}
+.about p{
+  font-family: 'Noto Sans HK', sans-serif;
+}
+.serv-txt{
+  text-align: center;
+  color: white;
+}
+.dos{
+  padding-top: 50px;
+}
+body{
+  margin: 0;
+  border: none;
+}
+/*********************Contact*****************/
+.contact{
+  text-align: center;
+}
+#name,#email{
+  width: 500px;
+  background: transparent;
+}
+.contact-img{
+  background-image: url('https://i.imgur.com/GCZYYig.jpg');
+  background-position: center;
+  height:500px;
+  background-size:cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+/*************What we do***************/
+#message{
+  width: 1200px;
+  padding-bottom: 300px;
+  background: transparent;
+}
+#submit{
+width: 200px;
+border: none;
+background: yellow;
+}
+.dev-showing,.prod-showing,.des-showing{
+  display: none;
+}
+/*************Portfolio***************/
+h1{
+  font-family: 'Noto Sans HK', sans-serif;
+}
+.contact-txt h1{
+  color: white;
+}
+#message,#email,#name{
+  color: white;
+  font-family: 'Noto Sans HK', sans-serif;
+}
+.portfolio{
+  text-align: center;
+  padding: 85px;
+  justify-content: space-around;
+}
+/*****************Services*********************/
+.services p{
+  font-family: 'Noto Sans HK', sans-serif;
+}
+/************************Social icons*************/
+.social-icons p{
+  font-family: 'Noto Sans HK', sans-serif;
+}
