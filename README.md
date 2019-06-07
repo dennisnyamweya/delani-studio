@@ -1,12 +1,9 @@
 # Delani Studio
 #### Brief description of application
-This is an application that will help us know whether a triangle is isosceles,
- equilateral, scalene or NOT a triangle at all.
+This is a website where developers meet and code to build amazing applications for their customers.
 #### By **Dennis Makori Nyamweya**
 ## Description
-This applications takes input data in form of the length of sides of a triangle,then determines if
-it is indeed a triangle.After the data is fed into the website, a pop-up appears showing whether it is an equilateral
-triangle or scalene or isosceles or not a triangle at all.
+This applications markets delani studio,a site for developers to market their skills and products to their potential customers.The website delani studio details the service the developers offer and their values.The applications also gives information of their origin,porfolio,projects and contacts.
 ## Setup/Installation Requirements
 * git clone https://github.com/dennisnyamweya/triangle-tracker.git
 * cd triangle-tracker
