@@ -5,25 +5,19 @@ This is a website where developers meet and code to build amazing applications f
 ## Description
 This applications markets delani studio,a site for developers to market their skills and products to their potential customers.The website delani studio details the service the developers offer and their values.The applications also gives information of their origin,porfolio,projects and contacts.
 ## Setup/Installation Requirements
-* git clone https://github.com/dennisnyamweya/triangle-tracker.git
-* cd triangle-tracker
+* git clone https://github.com/dennisnyamweya/delani-studio.git
+* cd delani_studio
 * open index.html using a browser
 ## Known Bugs
 There are no known bugs but feel free to fork and improve the system once you see a bug or contact me.
 ## Technologies Used
-
  * HTML/CSS
  * Bootstrap
  * Javascript
+ * jQuery
 ## Support and contact details
 ##BDD
-This application takes data fed into the website then checks if the conditions are met.If the conditions meet it
-checks whether if it is a triangle,and if it is it shows a popup to display the type of triangle.If not it shows a popup
-confirming it is not a triangle.
-
-
-
-
+This application shows information about delaini studio.It shows their services,projects they have done,about them and their contact information.They have provided a clickable what they do for you to view more information about it.It has contact section for sending message to them for any enquiries.
 ## Contact
 You can communicate to me via email.My email is denisnyamweya813@gmail.com
 # License
