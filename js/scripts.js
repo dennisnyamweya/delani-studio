@@ -13,7 +13,7 @@ function myFunction() {
  if(message<=20){
    alert("Enter message");
  }
-if(name.length>10 || email !==-1 && message>20){
+if( name.length>10 &&  message>20 || email>1 ){
    alert("We have received your message. Thank you for reaching out to us.");
  }
 }
