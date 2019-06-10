@@ -14,7 +14,7 @@ function myFunction() {
    alert("Enter message");
  }
 if( name.length>10  && email>-1 && message!=="" ){
-   alert( "name" +"we have received your message. Thank you for reaching out to us.");
+   alert( name +"we have received your message. Thank you for reaching out to us.");
  }
 }
 /*----------design toggle---------------*/
