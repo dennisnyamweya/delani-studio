@@ -15,19 +15,21 @@ There are no known bugs but feel free to fork and improve the system once you se
  * Bootstrap
  * Javascript
  * jQuery
-## BDD
-### Business Logic
-This application shows information about delaini studio.It shows their services,projects they have done,about them and their contact information.They have provided a clickable what they do for you to view more information about it.It has contact section for sending message to them for any enquiries.
-## User Interface Logic
-The user interface is a one page website that is divided into seven sections namely:
- * Landing page
- * About
- * Services
- * What we do
- * Portfolio
- * Contact
- * Social icons
+ ## BDD
+ ### Business Logic
+ This application shows information about delaini studio.It shows their services,projects they have done,about them and their contact information.They have provided a clickable what they do for you to view more information about it.It has contact section for sending message to them for any enquiries.
+ ## User Interface Logic
+ The user interface is a one page website that is divided into seven sections namely:
+  * Landing page
+  * About
+  * Services
+  * What we do
+  * Portfolio
+  * Contact
+  * Social icons
+
  The what we do section has a toggle if you click more information appears,portfolio on the other hand on hovering images name of project appears,contact section takes data input and returns value and social icons connect to social sites.
+ ## Contact
 ## Contact
 You can communicate to me via email.My email is denisnyamweya813@gmail.com
 # License

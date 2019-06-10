@@ -10,11 +10,11 @@ function myFunction() {
   if (email == -1) {
    alert("Not a valid e-mail!");
  }
- if(message<=20){
+ if(message===""){
    alert("Enter message");
  }
-if( name.length>10 &&  message>20 || email>1 ){
-   alert("We have received your message. Thank you for reaching out to us.");
+if( name.length>10  && email>-1 && message!=="" ){
+   alert( "name" +"we have received your message. Thank you for reaching out to us.");
  }
 }
 /*----------design toggle---------------*/
